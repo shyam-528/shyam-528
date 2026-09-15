@@ -1,11 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4169E1,100:00CED1&height=220&section=header&text=Shyam%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Aspiring%20Software%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=16&descColor=a5b4fc" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262C&height=220&section=header&text=Shyam%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Aspiring%20Software%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=16&descColor=8B949E" alt="header"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=650&height=60&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;Computer+Science+Student+@+SRM+IST+KTR;I+build+AI-powered+applications+%F0%9F%A4%96;Java+%7C+Python+%7C+SQL+%7C+AI/ML;Passionate+about+turning+ideas+into+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&height=60&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;Computer+Science+Student+@+SRM+IST+KTR;I+build+AI-powered+applications+%F0%9F%A4%96;Java+%7C+Python+%7C+SQL+%7C+AI/ML;Passionate+about+turning+ideas+into+code)](https://git.io/typing-svg)
 
 ![Open to Internships](https://img.shields.io/badge/Open_to-Internships_%26_Collaboration-16a34a?style=for-the-badge&logo=handshake&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=shyam-528&style=flat-square&color=8A2BE2&abbreviated=true)
+![Profile Views](https://komarev.com/ghpvc/?username=shyam-528&style=flat-square&color=58A6FF&abbreviated=true)
 
 </div>
 
@@ -56,11 +56,11 @@ fun_fact: "I talk to chatbots more than humans 🤖"
     <td width="50%" valign="top">
       <h3>📈 GitHub Stats</h3>
       <a href="https://github.com/shyam-528?tab=repositories">
-        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=shyam-528&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=00CED1&text_color=C9D1D9" alt="GitHub Stats"/>
+        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=shyam-528&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
       </a>
       <br/>
       <a href="https://github.com/shyam-528?tab=repositories">
-        <img height="170em" src="https://streak-stats.demolab.com?user=shyam-528&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=00CED1&currStreakNum=C9D1D9" alt="GitHub Streak"/>
+        <img height="170em" src="https://streak-stats.demolab.com?user=shyam-528&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak"/>
       </a>
     </td>
   </tr>
@@ -68,12 +68,12 @@ fun_fact: "I talk to chatbots more than humans 🤖"
 
 <div align="center">
   <a href="https://github.com/shyam-528?tab=repositories">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-528&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-528&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shyam-528&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shyam-528&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -92,7 +92,7 @@ fun_fact: "I talk to chatbots more than humans 🤖"
 ## 📊 Activity
 
 <div align="center">
-  <img height="160em" src="https://github-readme-activity-graph.vercel.app/graph?username=shyam-528&theme=react-dark&hide_border=true&bg_color=0D1117&color=8A2BE2&line=00CED1&point=ffffff&area=true&area_color=4169E1" alt="Contribution Graph"/>
+  <img height="160em" src="https://github-readme-activity-graph.vercel.app/graph?username=shyam-528&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=161B22" alt="Contribution Graph"/>
 </div>
 
 <div align="center">
@@ -111,7 +111,7 @@ fun_fact: "I talk to chatbots more than humans 🤖"
 
 [![GitHub](https://img.shields.io/badge/GitHub-shyam--528-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shyam-528)
 [![Email](https://img.shields.io/badge/Gmail-shyam05028@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shyam05028@gmail.com)
-[![Repos](https://img.shields.io/badge/My-Repositories-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shyam-528?tab=repositories)
+[![Repos](https://img.shields.io/badge/My-Repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shyam-528?tab=repositories)
 
 💡 *I'm currently **open to internships and collaboration** — feel free to reach out!*
 
@@ -119,4 +119,4 @@ fun_fact: "I talk to chatbots more than humans 🤖"
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,50:4169E1,100:8A2BE2&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:21262C,50:161B22,100:0D1117&height=120&section=footer" alt="footer"/>
